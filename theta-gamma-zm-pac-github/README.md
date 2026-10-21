@@ -4,7 +4,7 @@ Code and figures for the paper
 
 > Y. Luo, D. Hsu, S. Priyadarshini, J. Straub.
 > *Theta–gamma phase–amplitude coupling from a second-order Zwanzig–Mori equation.*
-> Submitted to *Chaos, Solitons & Fractals* (2026).
+> Plan for submit to *Chaos, Solitons & Fractals* (2026).
 
 Of the ten second-order theta–gamma terms of the Zwanzig–Mori equation, only the
 velocity–velocity term g<sub>vv</sub> v<sub>θ</sub> v<sub>γ</sub> locks gamma to the theta peak. The resulting model
