@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Theta-gamma phase-amplitude coupling from a second-order Zwanzig-Mori equation: code"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Luo
+    given-names: Yuhan
+    affiliation: "University of Wisconsin-Madison"
+  - family-names: Hsu
+    given-names: David
+    affiliation: "Department of Neurology, University of Wisconsin School of Medicine and Public Health"
+  - family-names: Priyadarshini
+    given-names: Sonali
+    affiliation: "Department of Chemistry, Boston University"
+  - family-names: Straub
+    given-names: John
+    affiliation: "Department of Chemistry, Boston University"
+preferred-citation:
+  type: article
+  title: "Theta-gamma phase-amplitude coupling from a second-order Zwanzig-Mori equation"
+  authors:
+    - family-names: Luo
+      given-names: Yuhan
+    - family-names: Hsu
+      given-names: David
+    - family-names: Priyadarshini
+      given-names: Sonali
+    - family-names: Straub
+      given-names: John
+  journal: "Chaos, Solitons & Fractals"
+  year: 2026
+  status: submitted
